@@ -12,6 +12,15 @@
     <guid>audio/mPGaitRadarBasedParkinsonsGaitAssessment.mp3</guid>
     <pubDate>Tue, 01 Jul 2025 12:00:00 +0900</pubDate>
   </item>
+  
+  <item>
+    <title>Ep 2: Fine-Grained-ADL-Recognition-with-Cyber-Physical-Sensing-Systems</title>
+    <description>Fine-Grained-ADL-Recognition-with-Cyber-Physical-Sensing-Systems</description>
+    <enclosure url="https://ryota-ozakii.github.io/my_podcasts/audio/Fine-Grained-ADL-Recognition-with-Cyber-Physical-Sensing-Systems.mp3" length="5599437" type="audio/mpeg" />
+    <guid>audio/Fine-Grained-ADL-Recognition-with-Cyber-Physical-Sensing-Systems.mp3</guid>
+    <pubDate>Thu, 04 Jul 2025 12:00:00 +0900</pubDate>
+  </item>
+
 </channel>
 </rss>
 
