@@ -15,7 +15,9 @@
   
   <item>
     <title>Ep 2: Fine-Grained-ADL-Recognition-with-Cyber-Physical-Sensing-Systems</title>
-    <description>Fine-Grained-ADL-Recognition-with-Cyber-Physical-Sensing-Systems</description>
+    <description>
+      提示された資料は、日常生活動作（ADL）を非侵襲的に監視するためのスマートヘルスケアシステムに関する原著論文です。この研究は、高齢者の安全と自立を支援するため、構造振動センサーと電気センサーという異なる種類のセンサーを組み合わせて、高精度な行動認識を実現しています。従来の粗いADL認識とは異なり、このシステムはサブセカンドレベルのアクションを特定し、センサー間の時間的および空間的な相補性を効果的に利用しています。実世界の実験を通じて、開発されたシステムが高い認識精度を達成し、行動パターンの変化を検出する可能性を示しています。
+    </description>
     <enclosure url="https://ryota-ozakii.github.io/my_podcasts/audio/Fine-Grained-ADL-Recognition-with-Cyber-Physical-Sensing-Systems.mp3" length="5599437" type="audio/mpeg" />
     <guid>audio/Fine-Grained-ADL-Recognition-with-Cyber-Physical-Sensing-Systems.mp3</guid>
     <pubDate>Thu, 04 Jul 2025 12:00:00 +0900</pubDate>
