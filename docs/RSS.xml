@@ -23,6 +23,16 @@
     <pubDate>Thu, 04 Jul 2025 12:00:00 +0900</pubDate>
   </item>
 
+  <item>
+    <title>Ep 3: EchoBreath-Smart-Glasses-for-Respiratory-Behavior-Recognition</title>
+    <description>
+      この文書では、スマートグラスに搭載された音響センサーを活用し、呼吸器系の異常を継続的に検知するシステム「EchoBreath」について解説しています。このシステムは、能動的および受動的な音響検知を組み合わせることで、ユーザーの呼吸行動を周囲のノイズや他の人の活動から区別します。提案されているソリューションは、軽量なニューラルネットワークとオープンセットフィルタリング機構を採用しており、ラボ環境と実際の環境の両方で高い精度を示しています。EchoBreathは、既存のウェアラブルデバイスの不快感や目立ちやすさといった課題を克服し、プライバシーを保護しつつ、呼吸器疾患の早期発見と管理に貢献することを目指しています。
+    </description>
+    <enclosure url="https://ryota-ozakii.github.io/my_podcasts/audio/EchoBreath-Smart-Glasses-for-Respiratory-Behavior-Recognition.mp3" length="5546709" type="audio/mpeg" />
+    <guid>audio/EchoBreath-Smart-Glasses-for-Respiratory-Behavior-Recognition.mp3</guid>
+    <pubDate>Thu, 04 Jul 2025 12:00:00 +0900</pubDate>
+  </item>
+
 </channel>
 </rss>
 
