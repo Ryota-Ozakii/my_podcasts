@@ -38,7 +38,7 @@
     <description>
       本論文では、スマートガーメントの新しいコンポーネントである「スマート芯地」を紹介し、その技術的実現可能性を検証しています。研究者たちは、活動検出に一般的に使用される摩擦電気ナノ発電機 (TENG) に基づく繊維振動センサーを用いてプロトタイプを実装しました。彼らは、芯地センサーのサイズ、形状、振動源の位置、および空気振動や表面振動などのさまざまな伝播媒体といった要因が、センサー信号とパターンにどのように影響するかを探りました。その結果、シャツに組み込まれたスマート芯地が、手、口、上半身を含む幅広いユーザー活動を93.9%の精度で検出できることを示しました。
     </description>
-    <enclosure url="https://ryota-ozakii.github.io/my_podcasts/audio/IntelliLining-Smart-Garment-Activity-Sensing-with-Textile-TENGs.mp3" length="5546709" type="audio/mpeg" />
+    <enclosure url="https://ryota-ozakii.github.io/my_podcasts/audio/IntelliLining-Smart-Garment-Activity-Sensing-with-Textile-TENGs.mp3" length="4991085" type="audio/mpeg" />
     <guid>audio/IntelliLining-Smart-Garment-Activity-Sensing-with-Textile-TENGs.mp3</guid>
     <pubDate>Thu, 04 Jul 2025 12:00:00 +0900</pubDate>
   </item>
