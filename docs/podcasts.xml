@@ -6,7 +6,7 @@
   <description>NotbookLMに入れた論文の音声要約ポッドキャスト</description>
   <language>ja</language>
   <!-- 🔽 サムネイル画像をここで指定 -->
-  <itunes:image href="https://ryota-ozakii.github.io/my_podcasts/podcast_sambneil.png" />
+  <itunes:image href="https://ryota-ozakii.github.io/my_podcasts/podcast_sambneil_trim.png" />
   <item>
     <title>Ep 1: mP-Gait: Radar-Based Parkinson's Gait Assessment</title>
     <description>mP-Gait: Radar-Based Parkinson's Gait Assessment</description>
